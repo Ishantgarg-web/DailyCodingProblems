@@ -4,7 +4,7 @@ Hello coders,
 
 
 ## Introduction
-Here you will find Daily new coding problem and their solution in multiple languages
+Here you will find Daily new coding problem from GeeksForGeeks, Leetcode, InterviewBit, TechGig, HackerRank etc. and their solution in multiple languages
 
 
 ## How you can Help us
@@ -31,6 +31,10 @@ Language means- Java, Golang, Python, C, C++ etc.
 Category means- Array, LinkedList, Tree etc.
 
 4. Create Pull Request like: {language_name}:Problem name
+
+## Have any doubt?
+Please reach out to us
+https://t.me/OpenSourceCoders
 
 Thanks for Visit...
 
