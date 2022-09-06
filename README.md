@@ -25,8 +25,12 @@ For Reference: https://www.dataschool.io/how-to-contribute-on-github/
 ## Important Points to remember for Contributors
 1. Make sure your code has Time Complexity and Space Complexity defined in starting of code
 2. You can also contribute in Brute-Force approach, Optimized solution for different languages
+3. ### Directory Structure: {language}/{Category}/{problem_name with extension}
 
+Language means- Java, Golang, Python, C, C++ etc.
+Category means- Array, LinkedList, Tree etc.
 
+4. Create Pull Request like: {language_name}:Problem name
 
 Thanks for Visit...
 
