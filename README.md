@@ -20,6 +20,8 @@ Here you will find Daily new coding problem and their solution in multiple langu
 4. Create Pull Request
 ### Finally, we merge then and you added in contributor list.
 
+For Reference: https://www.dataschool.io/how-to-contribute-on-github/
+
 ## Important Points to remember for Contributors
 1. Make sure your code has Time Complexity and Space Complexity defined in starting of code
 2. You can also contribute in Brute-Force approach, Optimized solution for different languages
