@@ -7,3 +7,7 @@
 
 ## Stack
 1. Stack Permutations
+
+
+## Tree
+1. Sum of K smallest element in BST
