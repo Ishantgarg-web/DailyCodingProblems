@@ -17,3 +17,6 @@
 
 ## Mathematical
 1. Ball Coloring   - 10 Sept. 2022
+
+## Graph
+1. Count occurrences of a given word in a 2-d array   -  11 Sept. 2022
