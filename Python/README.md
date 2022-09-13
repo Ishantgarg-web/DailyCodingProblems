@@ -8,6 +8,9 @@
 ## Numbers
 1. Smallest number with sum of digits as N and divisible by 10^N  - 9 Sept. 2022
 
+## Mathematical
+1. Ball Coloring   - 10 Sept. 2022
+
 ## Stack
 1. Stack Permutations   - 7 Sept. 2022
 
