@@ -20,3 +20,4 @@
 
 ## Tree
 1. Sum of K smallest element in BST  -  8 Sept. 2022
+2. BST to max heap  -  13 Sep. 2022
