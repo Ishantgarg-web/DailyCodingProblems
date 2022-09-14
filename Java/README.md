@@ -12,6 +12,7 @@
 
 ## Tree
 1. Sum of K smallest element in BST  -  8 Sept. 2022
+2. BST to max heap  -  13 Sep. 2022
 
 ## Numbers
 1. Smallest number with sum of digits as N and divisible by 10^N  - 9 Sept. 2022
