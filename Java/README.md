@@ -9,6 +9,7 @@
 
 ## Stack
 1. Stack Permutations   - 7 Sept. 2022
+2. Smallest number on left   -  19 Sept. 2022
 
 
 ## Tree
