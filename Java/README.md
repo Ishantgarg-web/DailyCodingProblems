@@ -23,7 +23,7 @@
 1. Ball Coloring   - 10 Sept. 2022
 2. Power Of 2 and Subsequences    -  14 Sept. 2022
 3. Composite and Prime   - 18 Sept. 2022
-4. [Maximum number of 2X2 squares](Java/Maximum number of 2X2 squares.java)   - 20 Sept. 2022
+4. [Maximum number of 2X2 squares](https://github.com/Ishantgarg-web/DailyCodingProblems/blob/main/Java/Mathematical/Maximum%20number%20of%202X2%20squares.java)   - 20 Sept. 2022
 
 ## Graph
 1. Count occurrences of a given word in a 2-d array   -  11 Sept. 2022
