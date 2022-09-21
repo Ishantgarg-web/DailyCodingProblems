@@ -32,3 +32,6 @@
 
 ## Prime Number
 1. [Composite and Prime](Prime%20Number/Composite%20and%20Prime.java)   - 18 Sept. 2022
+
+## Strings
+1. [License Key Formatting](Strings/License%20Key%20Formatting.java)  - 21 Sept. 2022
