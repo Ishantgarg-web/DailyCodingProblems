@@ -8,6 +8,11 @@ Update (i)th index every time after reverse;
 At last reverse the last word ;
 */
 
+/* 
+Time Complexity: O(N)
+Space Complexity: O(1)
+*/
+
 
 class Solution {
 public:
