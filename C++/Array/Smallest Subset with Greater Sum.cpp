@@ -7,7 +7,7 @@ Sorts the vector in descending order then
 traverse the vector and check 
 if currentSum < restElementSum then
 	currentSum+=Arr[i] 		//currSum Stores the sum of subset
-	restElementSum -= Arr[i]		//restElement Stores the sum of other elements
+	restEleSum -= Arr[i]		//restEleSum Stores the sum of other elements
 	count++ 				//size of current subset
 return count ;
 */
@@ -29,8 +29,8 @@ class Solution{
         }
         for(int i=0;i<N;i++){
             if(MaxSum<=sum){
-                MaxSum+=Arr[i];
-                sum-=Arr[i];
+	MaxSum+=Arr[i];
+	sum-=Arr[i];
                 count++;
             }
             else{
