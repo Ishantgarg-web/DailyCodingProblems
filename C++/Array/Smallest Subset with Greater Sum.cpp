@@ -7,8 +7,8 @@ Sorts the vector in descending order then
 traverse the vector and check 
 if currentSum < restElementSum then
 	currentSum+=Arr[i] 		//currSum Stores the sum of subset
-	restElementSum -= Arr[i]		//restElementSum Stores the sum of other elements
-	count++ 				//size of current subset
+	restElementSum -= Arr[i]	//restElementSum Stores the sum of other elements
+	count++ 			//size of current subset
 return count ;
 */
 
