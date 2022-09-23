@@ -10,6 +10,7 @@
 ## Stack
 1. [Stack Permutations](Stack/Stack%20Permutations.Java)   - 7 Sept. 2022
 2. [Smallest number on left](Stack/Smallest%20number%20on%20left.java)   -  19 Sept. 2022
+3. [Geek and Number String](Stack/Geek%20and%20Number%20String.java)  -  23 Sept. 2022
 
 
 ## Tree
