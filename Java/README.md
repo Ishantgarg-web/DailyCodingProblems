@@ -37,3 +37,7 @@
 
 ## Strings
 1. [License Key Formatting](Strings/License%20Key%20Formatting.java)  - 21 Sept. 2022
+
+
+## Bit Magic
+1. [The Bit Game](Bit%20Magic/The%20Bit%20Game.java)   -  24 Sep. 2022
