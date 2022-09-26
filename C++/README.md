@@ -9,3 +9,7 @@
 ## String
 ---
 1. [Reverse Words in a String III](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/String/Reverse%20Words%20in%20a%20String%20III.cpp) - 22 Sept. 2022
+---
+## Mathematical
+---
+1. [Tom and Jerry](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/Mathematical/Tom%20and%20Jerry.cpp) - 26 Sept. 2022
