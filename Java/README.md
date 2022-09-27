@@ -41,3 +41,7 @@
 
 ## Bit Magic
 1. [The Bit Game](Bit%20Magic/The%20Bit%20Game.java)   -  24 Sep. 2022
+
+
+## Queue
+1. [Minimum Cost of ropes.java](Queue/Minimum%20Cost%20of%20ropes.java)  -  27 Sep. 2022
