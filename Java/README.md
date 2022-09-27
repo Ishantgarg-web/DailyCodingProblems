@@ -44,4 +44,4 @@
 
 
 ## Queue
-1. [Minimum Cost of ropes.java](Queue/Minimum%20Cost%20of%20ropes.java)  -  27 Sep. 2022
+1. [Minimum Cost of ropes](Queue/Minimum%20Cost%20of%20ropes.java)  -  27 Sep. 2022
