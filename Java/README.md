@@ -6,6 +6,7 @@
 2. [The Number of Weak Characters in the Game (Leetcode- 1996)](Array/The%20Number%20of%20Weak%20Characters%20in%20the%20Game.java) - 9 Sept. 2022
 3. [Bag of Tokens (Leetcode- 948)](Array/Bag%20of%20Tokens(L%20948).java)   - 12 Sept. 2022
 4. [Smallest Subset with Greater Sum](Array/Smallest%20Subset%20with%20Greater%20Sum.java)   -  15 Sept. 2022
+5. [Fitting the Array](Array/Fitting%20the%20array.java)  -  28 Sept. 2022
 
 ## Stack
 1. [Stack Permutations](Stack/Stack%20Permutations.Java)   - 7 Sept. 2022
