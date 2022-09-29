@@ -7,6 +7,9 @@
 3. [Bag of Tokens (Leetcode- 948)](Array/Bag%20of%20Tokens(L%20948).java)   - 12 Sept. 2022
 4. [Smallest Subset with Greater Sum](Array/Smallest%20Subset%20with%20Greater%20Sum.java)   -  15 Sept. 2022
 5. [Fitting the Array](Array/Fitting%20the%20array.java)  -  28 Sept. 2022
+6. [Sort an array of 0s, 1s and 2s](Array/Sort%20an%20array%20of%200s%2C%201s%20and%202s.java)    -   29 Sept. 2022
+
+
 
 ## Stack
 1. [Stack Permutations](Stack/Stack%20Permutations.Java)   - 7 Sept. 2022
