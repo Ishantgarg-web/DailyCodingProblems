@@ -5,6 +5,7 @@
 1. [Minimum Sum of Absolute Differences of Pairs](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/Array/Minimum%20Sum%20of%20Absolute%20Differences%20of%20Pairs.cpp) - 20 Sept. 2022
 2. [Smallest Subset with Greater Sum](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/Array/Smallest%20Subset%20with%20Greater%20Sum.cpp) - 23 Sept. 2022
 3. [The Number of Weak Characters in the Game](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/Array/The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp) - 25 Sept. 2022
+4. [Fitting the Array](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/Array/Fitting%20the%20Array.cpp) - 28 Sept. 2022
 ---
 ## String
 ---
