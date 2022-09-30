@@ -49,3 +49,7 @@
 
 ## Queue
 1. [Minimum Cost of ropes](Queue/Minimum%20Cost%20of%20ropes.java)  -  27 Sep. 2022
+
+
+## Recursion
+1. [Find the Safe Position](Recursion/Find%20the%20Safe%20Position.java)  -  30 Sep. 2022
