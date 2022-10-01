@@ -10,7 +10,7 @@
 ---
 
 ## LinkedList
-1.[NextRightNode](https://github.com/SanjaySargam/DailyCodingProblems/blob/main/C%2B%2B/LinkedList/NextRightNode.cpp) - 01 October 2022
+1.[NextRightNode](https://github.com/SanjaySargam/DailyCodingProblems/blob/main/C%2B%2B/LinkedList/NextRightNode.cpp) - 29 August 2022
 
 
 ## String
