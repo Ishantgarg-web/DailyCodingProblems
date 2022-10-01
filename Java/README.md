@@ -57,3 +57,7 @@
 
 ## Recursion
 1. [Find the Safe Position](Recursion/Find%20the%20Safe%20Position.java)  -  30 Sep. 2022
+
+
+## LinkedList
+1. [Find pairs with given sum in doubly Linked List](Linked%20List/Find%20pairs%20with%20given%20sum%20in%20doubly%20linked%20list.java)  -  1 Sep. 2022
