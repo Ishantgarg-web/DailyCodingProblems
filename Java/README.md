@@ -9,6 +9,7 @@
 5. [Fitting the Array](Array/Fitting%20the%20array.java)  -  28 Sept. 2022
 6. [Sort an array of 0s, 1s and 2s](Array/Sort%20an%20array%20of%200s%2C%201s%20and%202s.java)    -   29 Sept. 2022
 7. [Fact digit sum](Array/Fact%20digit%20sum.java)    -   16 Aug. 2022
+8. [Game with nos](Array/Game%20with%20nos.java)    -    21 Aug. 2022
 
 
 
