@@ -8,6 +8,11 @@
 4. [Fitting the Array](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/Array/Fitting%20the%20Array.cpp) - 28 Sept. 2022
 5. [Sort 0 1 2](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/Array/Sort012.cpp) - 29 Sept. 2022
 ---
+
+## LinkedList
+1.[NextRightNode](https://github.com/SanjaySargam/DailyCodingProblems/blob/main/C%2B%2B/LinkedList/NextRightNode.cpp) - 29 August 2022
+
+
 ## String
 ---
 1. [Reverse Words in a String III](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/String/Reverse%20Words%20in%20a%20String%20III.cpp) - 22 Sept. 2022
