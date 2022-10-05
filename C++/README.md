@@ -22,5 +22,5 @@
 1. [Tom and Jerry](https://github.com/TyRoopam9599/DailyCodingProblems/blob/R1/C%2B%2B/Mathematical/Tom%20and%20Jerry.cpp) - 26 Sept. 2022
 
 ## Graph
-
+---
 1. [Number of distinct islands](./Graph/Number_of_distinct_islands.cpp) - 05 Oct. 2022
