@@ -1,3 +1,9 @@
+//Problem Link : https://leetcode.com/problems/find-k-closest-elements/
+
+/*
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
 vector<int> findClosestElements(vector<int>& A, int k, int x) {
         int l = 0, r = A.size() - k;
         while (l < r) {
